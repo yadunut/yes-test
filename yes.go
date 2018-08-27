@@ -18,3 +18,5 @@ func main() {
 		fmt.Print(bb)
 	}
 }
+
+// [3.07MiB/s]
